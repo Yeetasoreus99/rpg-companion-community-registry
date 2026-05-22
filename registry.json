@@ -1545,5 +1545,17 @@
     "github_repo": "turtl230-code/Lichdom-ascension-feats",
     "repo_url": "https://turtl230-code.github.io/Lichdom-ascension-feats/",
     "has_system": false
+  },
+  {
+    "name": "Mike-The-Accountant",
+    "description": "Former Accountant of the Bailwolf Kingdom and is now on the run for Tax Fraud",
+    "tags": [
+      "5e",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Yeetasoreus99/Mike-The-Accountant",
+    "repo_url": "https://Yeetasoreus99.github.io/Mike-The-Accountant/",
+    "has_system": false
   }
 ]
