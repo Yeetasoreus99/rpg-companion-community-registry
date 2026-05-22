@@ -1547,6 +1547,31 @@
     "has_system": false
   },
   {
+    "name": "Samuels-Arcanum-",
+    "description": "Additional elementalspells, feats and more. Generally taken from Reddit with improved balancing for use in classic d&d",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "samueldeany/Samuels-Arcanum-",
+    "repo_url": "https://samueldeany.github.io/Samuels-Arcanum-/",
+    "has_system": false
+  },
+  {
+    "name": "Solasta-Crown-of-the-Magister-Feats",
+    "description": "First item in a planned collection. This adds all of the feat selections present in the game Solasta. Enjoy!",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "solasta"
+    ],
+    "stars": 0,
+    "github_repo": "ThatOneWeirdo92/Solasta-Crown-of-the-Magister-Feats",
+    "repo_url": "https://ThatOneWeirdo92.github.io/Solasta-Crown-of-the-Magister-Feats/",
+    "has_system": false
+  },
+  {
     "name": "Mike-The-Accountant",
     "description": "Former Accountant of the Bailwolf Kingdom and is now on the run for Tax Fraud",
     "tags": [
